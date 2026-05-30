@@ -798,5 +798,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "Avatar Video_subtitled.mp4",
+        "metadata": {
+            "title": "BROTHER, Your Group Chat Is Not a Podcast: It\u2019s Just 37 Notifications Fighting for Dominance | Chimp Unfiltered",
+            "description": "BROTHER\u2026 today we\u2019re talking about the modern group chat ecosystem, aka the place where everyone \u201ccommunicates,\u201d nobody decides anything, and somehow the chat becomes a documentary about how a single pizza order can reveal the entire human condition. You ever notice how the second you type \u201cwhat time?\u201d three different people hit you with three different time zones, two voice notes, and a link to an article that nobody asked for\u2014like this is a startup pitch, not Tuesday plans? And don\u2019t even get me started on the \u201cI\u2019m on my way\u201d guy who\u2019s been \u201con my way\u201d since the invention of GPS\u2026 BROTHER, you\u2019re not commuting, you\u2019re evolving into a notification. We\u2019re roasting the behavior: the \u201cone message every 40 minutes\u201d strategy, the silent reactions that somehow mean a full debate, and the people who reply with \u201c\ud83d\ude02\u201d to questions like it\u2019s a legally binding contract. Like if you relate! Comment your worst group chat experience! Tag someone who needs to hear this! Follow Chimp Unfiltered for more rants! #chimpunfiltered #comedy #podcast #rant #funny #satire #relatable #millennialhumor #lol #viral",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
