@@ -2782,5 +2782,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "Avatar Video(18)_subtitled.mp4",
+        "metadata": {
+            "title": "People Who Film Themselves Crying in Public",
+            "description": "Some people make watching sports their entire personality. Their profile picture is them in jersey. Their bio mentions their team. Every conversation circles back to 'the game.' BROTHER do you even know your cousin's birthday? We're not anti-sports, we're anti-IDENTITY-CRISIS-via-sports-team. And why do fans act like they personally contributed to the win? You were on the couch eating chips. You didn't make that touchdown. Drop a \ud83c\udfc8 if you know someone like this. Tag them (they probably won't see it, they're watching highlights). Join us! #chimpunfiltered #sports #fans #comedy #podcast #satire #relatable #rant #football #sportsculture",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
