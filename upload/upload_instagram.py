@@ -68,7 +68,7 @@ def cleanup_compressed(file_path):
         pass
 
 
-    for name, upload_func in HOSTING_SERVICES:
+
         try:
             print(f"[instagram] Trying {name}...")
             url = upload_func(file_path)
